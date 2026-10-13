@@ -1,0 +1,27 @@
+[
+  {
+    "train_number": "12675",
+    "station": "Salem",
+    "delays": [2, 3, 4, 4, 5, 6, 5, 7, 6, 5]
+  },
+  {
+    "train_number": "12675",
+    "station": "Erode",
+    "delays": [3, 4, 5, 5, 6, 7, 6, 8, 7, 6]
+  },
+  {
+    "train_number": "12675",
+    "station": "Tiruppur",
+    "delays": [4, 4, 5, 6, 6, 7, 8, 7, 6, 8]
+  },
+  {
+    "train_number": "12676",
+    "station": "Erode",
+    "delays": [1, 2, 2, 3, 3, 4, 3, 4, 5, 4]
+  },
+  {
+    "train_number": "12676",
+    "station": "Salem",
+    "delays": [2, 2, 3, 3, 4, 4, 5, 4, 5, 5]
+  }
+]

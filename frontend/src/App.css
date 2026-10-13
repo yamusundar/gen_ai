@@ -1,0 +1,144 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+  color: #1e293b;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 40px 20px;
+}
+
+.header {
+  text-align: center;
+  margin: 20px auto 32px;
+}
+
+.train-icon {
+  font-size: 48px;
+}
+
+.header h1 {
+  margin: 12px 0;
+  color: #123b63;
+}
+
+.header p {
+  color: #64748b;
+  font-size: 16px;
+}
+
+.chat-card {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 28px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 28px rgba(15, 23, 42, 0.08);
+}
+
+.chat-card label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.chat-card textarea {
+  width: 100%;
+  padding: 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  font: inherit;
+  resize: vertical;
+}
+
+.chat-card textarea:focus {
+  outline: 2px solid #60a5fa;
+  border-color: #2563eb;
+}
+
+.chat-card button {
+  width: 100%;
+  margin-top: 16px;
+  padding: 14px;
+  border: none;
+  border-radius: 10px;
+  background: #1769aa;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.chat-card button:hover {
+  background: #125487;
+}
+
+.chat-card button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
+.answer {
+  margin-top: 24px;
+  padding: 18px;
+  border-left: 4px solid #1769aa;
+  border-radius: 8px;
+  background: #f1f7fc;
+}
+
+.answer h2 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+.answer p {
+  white-space: pre-wrap;
+  line-height: 1.7;
+}
+
+footer {
+  margin: 28px auto 0;
+  text-align: center;
+  color: #64748b;
+  font-size: 13px;
+}
+
+
+.voice-controls {
+  margin-top: 14px;
+}
+
+.mic-button {
+  width: 100%;
+  padding: 13px;
+  border: 2px solid #1769aa;
+  border-radius: 10px;
+  background: white;
+  color: #1769aa;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.mic-button:hover {
+  background: #eaf4fc;
+}
+
+.mic-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.voice-message {
+  margin: 10px 0 0;
+  color: #475569;
+  font-size: 14px;
+  text-align: center;
+}

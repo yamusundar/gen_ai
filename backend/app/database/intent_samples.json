@@ -1,0 +1,90 @@
+[
+  {
+    "text": "What is the next station?",
+    "intent": "NEXT_STATION"
+  },
+  {
+    "text": "What comes next?",
+    "intent": "NEXT_STATION"
+  },
+  {
+    "text": "Tell me the next station",
+    "intent": "NEXT_STATION"
+  },
+  {
+    "text": "12675 la next station enna?",
+    "intent": "NEXT_STATION"
+  },
+  {
+    "text": "12675 ke baad ka station kya hai?",
+    "intent": "NEXT_STATION"
+  },
+  {
+    "text": "Is the train late?",
+    "intent": "DELAY"
+  },
+  {
+    "text": "How many minutes late is the train?",
+    "intent": "DELAY"
+  },
+  {
+    "text": "What is the delay?",
+    "intent": "DELAY"
+  },
+  {
+    "text": "Train late ah?",
+    "intent": "DELAY"
+  },
+  {
+    "text": "Train kitna late hai?",
+    "intent": "DELAY"
+  },
+  {
+    "text": "What is famous in Erode?",
+    "intent": "TOURIST"
+  },
+  {
+    "text": "What can I see in Erode?",
+    "intent": "TOURIST"
+  },
+  {
+    "text": "Erode is famous for what?",
+    "intent": "TOURIST"
+  },
+  {
+    "text": "Erode la enna famous?",
+    "intent": "TOURIST"
+  },
+  {
+    "text": "What are the attractions in Erode?",
+    "intent": "TOURIST"
+  },
+  {
+    "text": "Tell me about Erode station",
+    "intent": "STATION_INFO"
+  },
+  {
+    "text": "Give station information",
+    "intent": "STATION_INFO"
+  },
+  {
+    "text": "Where does train 12675 go?",
+    "intent": "ROUTE"
+  },
+  {
+    "text": "What is the route of 12675?",
+    "intent": "ROUTE"
+  },
+  {
+    "text": "12675 route enna?",
+    "intent": "ROUTE"
+  },
+  {
+    "text": "What is the fare?",
+    "intent": "FARE"
+  },
+  {
+    "text": "How much is the ticket?",
+    "intent": "FARE"
+  }
+]

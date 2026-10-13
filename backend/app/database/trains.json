@@ -1,0 +1,27 @@
+{
+  "12675": {
+    "name": "Kovai Express",
+    "source": "Chennai Central",
+    "destination": "Coimbatore Junction"
+  },
+  "12676": {
+    "name": "Kovai Express",
+    "source": "Coimbatore Junction",
+    "destination": "Chennai Central"
+  },
+  "12083": {
+    "name": "Coimbatore Shatabdi",
+    "source": "Coimbatore Junction",
+    "destination": "Chennai Central"
+  },
+  "12084": {
+    "name": "Coimbatore Shatabdi",
+    "source": "Chennai Central",
+    "destination": "Coimbatore Junction"
+  },
+  "12673": {
+    "name": "Cheran Express",
+    "source": "Chennai Central",
+    "destination": "Coimbatore Junction"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Chennai Central": {
+    "state": "Tamil Nadu",
+    "famous_for": [
+      "Major railway hub",
+      "Historical architecture"
+    ],
+    "attractions": [
+      "Marina Beach",
+      "Fort St. George"
+    ]
+  },
+  "Arakkonam": {
+    "state": "Tamil Nadu",
+    "famous_for": [
+      "Railway junction"
+    ],
+    "attractions": [
+      "Kailasanathar Temple"
+    ]
+  },
+  "Katpadi": {
+    "state": "Tamil Nadu",
+    "famous_for": [
+      "Railway junction near Vellore"
+    ],
+    "attractions": [
+      "Vellore Fort",
+      "Sripuram Golden Temple"
+    ]
+  },
+  "Salem": {
+    "state": "Tamil Nadu",
+    "famous_for": [
+      "Mangoes",
+      "Textiles"
+    ],
+    "attractions": [
+      "Mettur Dam",
+      "Yercaud"
+    ]
+  },
+  "Erode": {
+    "state": "Tamil Nadu",
+    "famous_for": [
+      "Turmeric",
+      "Handloom textiles"
+    ],
+    "attractions": [
+      "Bhavani Sangameshwarar Temple",
+      "Erode Fort"
+    ]
+  },
+  "Tiruppur": {
+    "state": "Tamil Nadu",
+    "famous_for": [
+      "Textile industry",
+      "Knitwear"
+    ],
+    "attractions": [
+      "Avinashi Temple"
+    ]
+  },
+  "Coimbatore Junction": {
+    "state": "Tamil Nadu",
+    "famous_for": [
+      "Textile industry",
+      "Engineering industries"
+    ],
+    "attractions": [
+      "Marudamalai Temple",
+      "Isha Yoga Center"
+    ]
+  }
+}
